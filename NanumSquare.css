@@ -2,23 +2,31 @@
     font-family: 'Nanum Square';
     font-weight: 300;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareL.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquareL.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquareL.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Nanum Square';
     font-weight: 400;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquare.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquare.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquare.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Nanum Square';
     font-weight: 700;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareB.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquareB.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquareB.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Nanum Square';
     font-weight: 800;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareEB.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquareEB.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquareEB.ttf') format('truetype');
 }
