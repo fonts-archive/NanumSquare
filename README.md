@@ -15,7 +15,7 @@ font-family: 'Nanum Square';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquare.css'/>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquare.css'/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquare.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquare.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.statically.io/gh/fonts-archive/NanumSquare/main/NanumSquare.css
+https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquare.css
 ```
