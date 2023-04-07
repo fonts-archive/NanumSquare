@@ -36,7 +36,9 @@ font-face
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareL.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareL.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareL.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareL.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareL.ttf') format('truetype');
 }
 @font-face {
@@ -44,7 +46,9 @@ font-face
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquare.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquare.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquare.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquare.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquare.ttf') format('truetype');
 }
 @font-face {
@@ -52,7 +56,9 @@ font-face
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareB.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareB.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareB.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareB.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareB.ttf') format('truetype');
 }
 @font-face {
@@ -60,7 +66,9 @@ font-face
     font-weight: 800;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareEB.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareEB.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareEB.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareEB.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquare/NanumSquareEB.ttf') format('truetype');
 }
 ```
